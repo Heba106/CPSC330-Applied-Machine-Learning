@@ -1,9 +1,10 @@
 # UBC CPSC 330: Applied Machine Learning
 
 This is solutions for CPSC 330: Applied Machine Learning at the University of British Columbia.
-| Topic  | my impelmentation    | 
+| Topic  | My Impelmentation    | 
 | :-----: | :---: | 
-|2 Descission trees|[02.Descission_trees.ipynb](./02.Descission_trees.ipynb)|
+|2- Descission trees|[02.Descission_trees.ipynb](./02.Descission_trees.ipynb)|
+|3- Data Splitting & The Fundamental Tradeoff|[03.fundamental_tradeoff.ipynb](./03.fundamental_tradeoff.ipynb)
 
 For course materials, see https://github.com/UBC-CS/cpsc330/tree/v2.0
 
